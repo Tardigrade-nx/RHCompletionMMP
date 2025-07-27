@@ -23,7 +23,7 @@ Here's an example of a completion photo using the app:
 ## Usage
 
 - From the emulator, take a screenshot of the ending sequence. By default on OnionOS, this can be done with MENU + POWER.
-- Exit RetroArch, and launch: Apps > RH Completion. The last screenshot taken should be displayed, with the floating note above. See buttons below for further actions.
+- Exit RetroArch, and launch: Apps > RH Completion. The last screenshot taken should be displayed, with the floating note above. See buttons below for further actions. You can now take your completion photo and post it on Discord.
 
 ## Buttons
 - ⬆️⬇️: Select screenshot
