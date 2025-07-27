@@ -1,0 +1,6 @@
+{
+	"label":	"RH Completion",
+	"icon":	"/mnt/SDCARD/App/RHCompletionMMP/icon.png",
+	"launch":	"launch.sh",
+	"description":	"RetroHandhelds GotX Completion App"
+}

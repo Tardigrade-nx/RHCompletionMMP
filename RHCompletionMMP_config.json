@@ -1,0 +1,11 @@
+{
+   "nickname": "Tardigrade",
+   "font_size": 42,
+   "note_x": 0,
+   "note_y": 0,
+   "note_padding": 24,
+   "note_background_color": [255, 255, 64],
+   "note_text_color": [0, 0, 0],
+   "screenshots_directory": "/mnt/SDCARD/Screenshots",
+   "screenshots_pattern": "*.png"
+}
